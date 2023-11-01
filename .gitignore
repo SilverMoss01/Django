@@ -1,3 +1,5 @@
+pyenv.cfg
+
 # Django #
 *.log
 *.pot
